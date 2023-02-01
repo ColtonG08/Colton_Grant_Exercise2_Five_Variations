@@ -1,0 +1,70 @@
+div.a {
+    text-indent: 800px;
+    color: rgb(43, 156, 226);
+    text-shadow: 2px 2px #2f00ff;
+    text-decoration: underline solid greenyellow;
+  }
+  
+  div.b {
+    text-indent: 200px;
+    color:  #2f00ff;
+    text-shadow: 2px 2px rgb(43, 156, 226);
+    text-decoration: underline solid greenyellow;
+  }
+  
+  div.c {
+    text-indent: 645px;
+    color: rgb(43, 156, 226);
+    text-shadow: 2px 2px #2f00ff;
+    text-decoration: underline solid greenyellow;
+  }
+
+  div.d {
+    text-indent: 50px;
+    color:  #2f00ff;
+    text-shadow: 2px 2px rgb(43, 156, 226);
+    text-decoration: underline solid greenyellow;
+  } 
+
+  div.e {
+    text-indent: 450px;
+    color: rgb(43, 156, 226);
+    text-shadow: 2px 2px #2f00ff;
+    text-decoration: underline solid greenyellow;
+  }
+
+  div.f {
+    text-indent: 825px;
+    color:  #2f00ff;
+    text-shadow: 2px 2px rgb(43, 156, 226);
+    text-decoration: underline solid greenyellow;
+  }
+
+  div.g {
+    text-indent: 375px;
+    color: rgb(43, 156, 226);
+    text-shadow: 2px 2px #2f00ff;
+    text-decoration: underline solid greenyellow;
+  }
+
+  div.h {
+    text-indent: 85px;
+    color:  #2f00ff;
+    text-shadow: 2px 2px rgb(43, 156, 226);
+    text-decoration: underline solid greenyellow;
+  }
+
+  div.i {
+    text-indent: 0px;
+    color: rgb(43, 156, 226);
+    text-shadow: 2px 2px #2f00ff;
+    text-decoration: underline solid greenyellow;
+  }
+
+  div.j {
+    text-indent: 550px;
+    color: rgb(43, 156, 226);
+    text-shadow: 2px 2px #2f00ff;
+    text-transform: capitalize;
+    text-decoration: underline solid greenyellow;
+  }

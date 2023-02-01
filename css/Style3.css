@@ -1,0 +1,51 @@
+  div.a {
+    text-indent: 0px;
+    color: blueviolet;
+  }
+  
+  div.b {
+    text-indent: 50px;
+    color: blueviolet;
+  }
+  
+  div.c {
+    text-indent: 100px;
+    color: blueviolet;
+  }
+
+  div.d {
+    text-indent: 200px;
+    color: blueviolet;
+  } 
+
+  div.e {
+    text-indent: 400px;
+    color: blueviolet;
+  }
+
+  div.f {
+    text-indent: 200px;
+    color: blueviolet;
+  }
+
+  div.g {
+    text-indent: 100px;
+    color: blueviolet;
+  }
+
+  div.h {
+    text-indent: 50px;
+    color: blueviolet;
+  }
+
+  div.i {
+    text-indent: 0px;
+    color: blueviolet;
+  }
+
+  div.j {
+    text-indent: 550px;
+    color: blueviolet;
+    text-transform: capitalize;
+    text-decoration: underline dashed red;
+  }
